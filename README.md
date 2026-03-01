@@ -113,7 +113,7 @@ Access is only possible through Bastion Host.
 ---
 ## S3 Access without Access Keys
 
-![S3 Access](./Screenshots/S3-Access.png)
+![S3 Access](./img/S3-Access-Test-on-private-app.png)
 
 AWS CLI successfully lists S3 buckets using IAM role.
 No credentials stored inside the server.
